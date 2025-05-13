@@ -11,7 +11,7 @@
     "Tamagotchi.Web": {
       "commandName": "Project",
       "dotnetRunMessages": true,
-      "launchBrowser": false,
+      "launchBrowser": true,
       "applicationUrl": "https://localhost:7015",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

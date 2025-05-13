@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tamagotchi.Data", "Tamagotc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tamagotchi.Web", "Tamagotchi.Web\Tamagotchi.Web.csproj", "{4D5090B5-10E1-42EC-B031-3C3E796C2472}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tamagotchi.ApisMonitoring", "Tamagotvhi.ApisMonitoring\Tamagotchi.ApisMonitoring.csproj", "{32358C77-2BB1-49A4-B866-217E2241D647}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tamagotchi.ApisMonitoring", "Tamagotvhi.ApisMonitoring\Tamagotchi.ApisMonitoring.csproj", "{32358C77-2BB1-49A4-B866-217E2241D647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{554B03EB-EFEB-4847-9C30-121C45209A4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{32358C77-2BB1-49A4-B866-217E2241D647}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32358C77-2BB1-49A4-B866-217E2241D647}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32358C77-2BB1-49A4-B866-217E2241D647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{554B03EB-EFEB-4847-9C30-121C45209A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{554B03EB-EFEB-4847-9C30-121C45209A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{554B03EB-EFEB-4847-9C30-121C45209A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{554B03EB-EFEB-4847-9C30-121C45209A4F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
